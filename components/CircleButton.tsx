@@ -26,11 +26,12 @@ const styles = StyleSheet.create({
     borderRadius: 42,
     padding: 3,
   },
+  
   circleButton: {
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
     borderRadius: 42,
     backgroundColor: '#fff',
-  },
+  }
 });
